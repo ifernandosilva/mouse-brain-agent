@@ -1,7 +1,7 @@
 {
-  "instruction": "o que meu agente pode fazer?",
-  "timestamp": "20260808_183306",
-  "screenshot": "screenshots/20260808_183306.png",
+  "instruction": "abra o YouTube",
+  "timestamp": "20260808_183506",
+  "screenshot": "screenshots/20260808_183506.png",
   "status": "waiting",
   "response": null
 }
