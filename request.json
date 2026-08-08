@@ -1,14 +1,7 @@
 {
-  "task": "Analise esta tela e me diga: 1) O que esta aberto 2) O que posso fazer agora",
-  "screenshot": "mouse_brain/data/bridge/screenshots/20260808_155600.png",
-  "screen_size": [
-    1920,
-    1080
-  ],
-  "context": {
-    "foreground_window": "Verificar via screen_reader",
-    "timestamp": "20260808_155600"
-  },
+  "instruction": "abra o YouTube",
+  "timestamp": "20260808_174511",
+  "screenshot": null,
   "status": "waiting",
-  "timestamp": "20260808_155600"
+  "response": null
 }
