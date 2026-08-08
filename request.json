@@ -1,7 +1,7 @@
 {
-  "instruction": "abra o YouTube e pesquise gatos",
-  "timestamp": "20260808_174928",
-  "screenshot": null,
+  "instruction": "teste",
+  "timestamp": "20260808_175902",
+  "screenshot": "screenshots/20260808_175902.png",
   "status": "waiting",
   "response": null
 }
