@@ -1,7 +1,7 @@
 {
-  "instruction": "voce pode criar um musica.txt na area de trabalho, mas a letra deve estar completa e falando de amor",
-  "timestamp": "20260808_205707",
-  "screenshot": "screenshots/20260808_205707.png",
+  "instruction": "clique no Terminal",
+  "timestamp": "20260808_205851",
+  "screenshot": "screenshots/20260808_205851.png",
   "status": "waiting",
   "response": null
 }
