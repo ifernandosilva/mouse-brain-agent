@@ -1,7 +1,8 @@
 {
   "instruction": "clique no Terminal",
-  "timestamp": "20260808_205851",
-  "screenshot": "screenshots/20260808_205851.png",
-  "status": "waiting",
-  "response": null
+  "timestamp": "20260808_210500",
+  "screenshot": "screenshots/20260808_210500.png",
+  "status": "done",
+  "response": "Vou clicar no texto 'Terminal' que esta na posicao (1599, 89) da tela usando OCR.",
+  "actions": [{"type": "click_text", "text": "Terminal"}]
 }
