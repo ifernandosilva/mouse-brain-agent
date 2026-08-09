@@ -1,8 +1,7 @@
 {
   "instruction": "oi",
-  "timestamp": "20260808_204055",
-  "screenshot": "screenshots/20260808_204055.png",
-  "status": "done",
-  "response": "Ola! Eu sou o Freebuff, seu assistente de computer use. Posso ajudar voce a abrir sites, pesquisar no Google/YouTube, digitar texto, clicar em botoes, criar arquivos e navegar paginas. Basta me dizer o que precisa!",
-  "actions": []
+  "timestamp": "20260808_204648",
+  "screenshot": "screenshots/20260808_204648.png",
+  "status": "waiting",
+  "response": null
 }
